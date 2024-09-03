@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix</title>
+    <link rel="stylesheet" type="text/css" href="netflix.css">
+</head>
+<body>
+    <div class="net">
+        <svg width="260" height="130">
+            <path id="curve" d="M 0 120 C 0 120, 130 95, 260 120"></path>
+            <text class="text" text-anchor="middle">
+                <textPath class="text_path" href="#curve" startOffset="50%">NETFLIX</textPath>
+            </text>
+        </svg>
+        <div class="net">
+            <div class="signin">
+                 <form action="postMethod">
+          <input type="submit" value="Sign In" class="new">
+                 </form>
+    </div>
+    <div class="bod">
+      <pre><span id="first">Unlimited movies, TV shows, and more.</span>
+
+        <span id="second">Watch anywhere. Cancel anytime.</span>
+
+        <span id="third">Ready to watch? Enter your email to create or restart your membership.</span>
+            <form action="getMethod">
+<input type="email" id="email" name="Email" placeholder="Email"> <input type="submit" value="Get Started >">
+            </form>
+    </pre>
+    </div>
+</body>
+</html>

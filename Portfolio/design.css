@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+  }
+body{
+    background-color: rgb(2, 26, 41);
+}
+h1{
+    text-align: left;
+    padding: 10px;
+    margin: auto;
+    color: rgb(248, 242, 242);
+    font-size: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bold{
+    color: rgb(251, 255, 0);
+}
+.name{
+    margin-top: 20px;
+    margin-bottom: -10px;
+}
+.head{
+    padding-top: 135px;
+    padding-left: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#head1{
+    margin-top: -250px;
+    padding-right: 150px;
+}
+.main-design{
+    padding-left: 950px;
+    padding-top: 15px;
+}
+.head img{
+    border-radius: 50%;
+    margin-right: 200px;
+    margin-top: -55px;
+}
+.name{
+ font-display: none;
+ font-size: 5rem;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.aim{
+    font-display: none;
+font-size: 5rem;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Word{
+    font-size:50px;
+    font-weight: 400;
+    font-display: flex;
+}
+.fa-facebook{
+color: skyblue;
+padding-right: 15px;
+margin-top: 0px;
+font-size: 25px;
+}
+.fa-instagram{
+    margin-top: -55px;
+    font-size: 25px;
+    color: rgb(205, 72, 107);
+}
+.fa-youtube{
+    padding-left: 20px;
+    font-size: 25px;
+    color: red;
+}
+.fa-x-twitter{
+    padding-left: 15px;
+    font-size: 25px;
+    color: black;
+}
+.sco{
+    font-size: 25px;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 20px;
+}
