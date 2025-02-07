@@ -39,12 +39,12 @@ h1{
 }
 .name{
  font-display: none;
- font-size: 5rem;
+ font-size: 10px;
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .aim{
     font-display: none;
-font-size: 5rem;
+font-size: 2rem;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .Word{
